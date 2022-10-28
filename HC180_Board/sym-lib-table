@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "HC180_Board")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/HC180_Board.kicad_sym")(options "")(descr ""))
+)
